@@ -1,0 +1,78 @@
+@media (max-width: 991px) {
+	#logo {
+		left: 60px;
+	}
+}
+
+@media (max-width: 767px) {
+	header {
+		height: 50px;
+	}
+	.icon-menu {
+		top: 13px;
+	}
+}
+@media (max-width: 813px) {
+	.search {
+		width: 230px;
+	}
+	input[type="search"] {
+		width: 205px;
+	}
+}
+@media (max-width: 400px) {
+	#black-bar {
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 350px) {
+	#black-bar {
+		font-size: 13px;
+	}
+}
+
+@media (max-width: 575px) {
+	#column-right {
+		width: auto;
+	}
+}
+@media (max-width: 380px) {
+	#central-container {
+		margin: 0 -20px;
+	}
+	#special-news-left-content {
+		display: none;
+	}
+	#special-news-left {
+		background-size: auto 310px;
+		height: 310px;
+	}
+}
+@media (max-width: 477px) {
+	#navalniy, #pasport, #youtube, #kein {
+		float: none;
+		width: 320px;
+		background-size: 320px;
+		padding-top: 205px;		
+		margin-top: 20px;
+	}
+	.news-center-text {
+		height: 50px;
+		line-height: 1.5;
+	}
+	.center-item-props, .news-center-text {
+		margin: 0 25px;
+	}
+}
+@media (max-width: 433px) {
+	#column-center {
+		min-width: 320px;
+	}
+	h3 {
+		font-size: 21px;
+	}
+	#castle h3 {
+		width: 300px;
+	}
+}
