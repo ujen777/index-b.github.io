@@ -54,7 +54,7 @@
 		float: none;
 		width: 320px;
 		background-size: 320px;
-		padding-top: 205px;		
+		padding-top: 205px;
 		margin-top: 20px;
 	}
 	.news-center-text {
@@ -73,6 +73,6 @@
 		font-size: 21px;
 	}
 	#castle h3 {
-		width: 300px;
+		width: 280px;
 	}
 }
